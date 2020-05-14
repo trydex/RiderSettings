@@ -1,0 +1,51 @@
+<scheme name="_@user_Rider Dark" version="142" parent_scheme="Rider Dark">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-01-25T19:11:16</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2019.3.1.0.0</property>
+    <property name="modified">2020-05-14T19:22:45</property>
+    <property name="originalScheme">Rider Dark</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="2e2e20" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="252e25" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="2e252e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="212d2d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="3c1f1f" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_ENUM_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ffe843" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="d0d0d0" />
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
