@@ -1,6 +1,10 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
   <action id="Git.Branches" />
+  <action id="Images.Editor.ToggleGrid" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+  </action>
+  <action id="ViewInSolutionExplorer">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
 </keymap>
