@@ -4,7 +4,7 @@
     <property name="created">2020-05-14T19:22:20</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.0.0.0</property>
-    <property name="modified">2020-05-14T19:22:45</property>
+    <property name="modified">2020-05-15T10:15:34</property>
     <property name="originalScheme">Rider Melon Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -47,10 +47,10 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="787878" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="3838380" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="838380" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="3838380" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="838380" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="88889940" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="383838" />
@@ -59,10 +59,10 @@
     <option name="ScrollBar.Mac.trackColor" value="383838" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="88889940" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="3838380" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="838380" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Transparent.trackColor" value="3838380" />
+    <option name="ScrollBar.Transparent.trackColor" value="838380" />
     <option name="ScrollBar.background" value="383838" />
     <option name="ScrollBar.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.hoverThumbColor" value="88889940" />
@@ -866,27 +866,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="353528" />
+        <option name="BACKGROUND" value="2e2e27" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2c352c" />
+        <option name="BACKGROUND" value="292e29" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="352c35" />
+        <option name="BACKGROUND" value="2e292e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="293434" />
+        <option name="BACKGROUND" value="282d2d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="412424" />
+        <option name="BACKGROUND" value="342525" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1793,11 +1793,6 @@
         <option name="FOREGROUND" value="c9a26d" />
       </value>
     </option>
-    <option name="ReSharper.UNITY_IMPLICITLY_USED_IDENTIFIER">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="ReSharper.UNITY_PERFORMANCE_CAMERA_MAIN">
       <value>
         <option name="EFFECT_COLOR" value="ff9259" />
@@ -2431,7 +2426,7 @@
         <option name="FOREGROUND" value="c9a26d" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="YAML_COMMENT">
       <value>
         <option name="FOREGROUND" value="909090" />
