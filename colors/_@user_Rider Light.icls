@@ -4,7 +4,7 @@
     <property name="created">2020-05-14T19:22:20</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.0.0.0</property>
-    <property name="modified">2020-05-15T10:15:34</property>
+    <property name="modified">2020-05-18T10:20:42</property>
     <property name="originalScheme">Rider Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -13,7 +13,7 @@
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fffff8" />
+        <option name="BACKGROUND" value="fffff7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
@@ -33,7 +33,7 @@
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="ebdbdb" />
+        <option name="BACKGROUND" value="e9d8d8" />
       </value>
     </option>
   </attributes>
