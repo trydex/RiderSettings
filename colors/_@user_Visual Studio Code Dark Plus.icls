@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-05-14T20:26:36</property>
+    <property name="modified">2020-05-23T11:03:36</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -504,10 +504,10 @@
         <option name="FOREGROUND" value="94dbfd" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="d16969" />
@@ -605,7 +605,7 @@
     <option name="XPATH.BRACKET">
       <value />
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
   </attributes>
 </scheme>
