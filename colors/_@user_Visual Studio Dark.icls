@@ -4,7 +4,7 @@
     <property name="created">2020-05-14T19:22:20</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.0.0.0</property>
-    <property name="modified">2020-05-18T10:20:42</property>
+    <property name="modified">2020-05-23T19:54:17</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -13,27 +13,27 @@
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="27271f" />
+        <option name="BACKGROUND" value="26261f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="222722" />
+        <option name="BACKGROUND" value="212621" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="272227" />
+        <option name="BACKGROUND" value="262126" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="202626" />
+        <option name="BACKGROUND" value="202525" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="2f1e1e" />
+        <option name="BACKGROUND" value="2c1e1e" />
       </value>
     </option>
   </attributes>

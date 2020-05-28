@@ -1,11 +1,11 @@
-<scheme name="_@user_ReSharper Dark" version="142" parent_scheme="ReSharper Dark">
+<scheme name="_@user_Visual Assist Light" version="142" parent_scheme="Visual Assist Light">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-05-14T19:22:20</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.0.0.0</property>
     <property name="modified">2020-05-23T19:54:17</property>
-    <property name="originalScheme">ReSharper Dark</property>
+    <property name="originalScheme">Visual Assist Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -13,27 +13,27 @@
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="26261f" />
+        <option name="BACKGROUND" value="fffff8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="212621" />
+        <option name="BACKGROUND" value="fbfffb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="262126" />
+        <option name="BACKGROUND" value="fffbff" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="202525" />
+        <option name="BACKGROUND" value="f9fefe" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="2c1e1e" />
+        <option name="BACKGROUND" value="eddfdf" />
       </value>
     </option>
   </attributes>
