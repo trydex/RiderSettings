@@ -3,11 +3,13 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="commonVue.js" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.js,*.cshtml</mask>
     <mask>*.cs</mask>
+    <mask>commonVue.js</mask>
   </component>
 </application>
