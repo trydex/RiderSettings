@@ -6,8 +6,11 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.cs</mask>
     <mask>*.js</mask>
     <mask>*.js,*.cshtml</mask>
+    <mask>commonVue.js</mask>
+    <mask>*.scss</mask>
+    <mask>*.js, *.cshtml</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
