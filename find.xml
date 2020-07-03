@@ -10,7 +10,7 @@
     <mask>*.js,*.cshtml</mask>
     <mask>commonVue.js</mask>
     <mask>*.cs</mask>
-    <mask>*.js, *.cshtml</mask>
     <mask>*.scss</mask>
+    <mask>*.js, *.cshtml</mask>
   </component>
 </application>
