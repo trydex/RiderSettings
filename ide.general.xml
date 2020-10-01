@@ -31,5 +31,6 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.borderless.tab.caption.in.title" value="false" />
     <entry key="ide.debug.in.title" value="true" />
+    <entry key="ide.new.project.model" value="false" />
   </component>
 </application>
