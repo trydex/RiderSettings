@@ -58,6 +58,7 @@
       <NestingRule child-file-suffix=".master.fs" parent-file-suffix=".master" />
       <NestingRule child-file-suffix=".master.vb" parent-file-suffix=".master" />
       <NestingRule child-file-suffix=".html" parent-file-suffix=".pug" />
+      <NestingRule child-file-suffix=".razor.cs" parent-file-suffix=".razor" />
       <NestingRule child-file-suffix=".designer.cs" parent-file-suffix=".resx" />
       <NestingRule child-file-suffix=".designer.fs" parent-file-suffix=".resx" />
       <NestingRule child-file-suffix=".designer.vb" parent-file-suffix=".resx" />
