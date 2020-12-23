@@ -33,6 +33,7 @@
     <entry key="ide.debug.in.title" value="true" />
     <entry key="ide.new.project.model" value="false" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
-    <entry key="use.tabbed.welcome.screen" value="true" />
+    <entry key="use.tabbed.welcome.screen" value="false" />
+    <entry key="debugger.show.values.use.inlays" value="false" />
   </component>
 </application>
